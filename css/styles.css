@@ -86,12 +86,13 @@ animation-duration: 0.5s;
 .car-icon:hover {
     animation-name: penis3;
     animation-duration: 0.5s;
+    filter:brightness(120%);
 
 }
 
 @keyframes penis4{
     to {filter:brightness(100%);}
-    from{filter:brightness(120%)}
+    from{filter:brightness(120%);}
 }
 
 
